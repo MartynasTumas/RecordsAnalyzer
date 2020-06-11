@@ -1,0 +1,9 @@
+C:\Users\Martynas\source\repos\RecordsAnalyzer\RecordsAnalyzerLibrary\bin\Debug\netcoreapp3.1\RecordsAnalyzerLibrary.deps.json
+C:\Users\Martynas\source\repos\RecordsAnalyzer\RecordsAnalyzerLibrary\bin\Debug\netcoreapp3.1\RecordsAnalyzerLibrary.dll
+C:\Users\Martynas\source\repos\RecordsAnalyzer\RecordsAnalyzerLibrary\bin\Debug\netcoreapp3.1\RecordsAnalyzerLibrary.pdb
+C:\Users\Martynas\source\repos\RecordsAnalyzer\RecordsAnalyzerLibrary\obj\Debug\netcoreapp3.1\RecordsAnalyzerLibrary.csprojAssemblyReference.cache
+C:\Users\Martynas\source\repos\RecordsAnalyzer\RecordsAnalyzerLibrary\obj\Debug\netcoreapp3.1\RecordsAnalyzerLibrary.AssemblyInfoInputs.cache
+C:\Users\Martynas\source\repos\RecordsAnalyzer\RecordsAnalyzerLibrary\obj\Debug\netcoreapp3.1\RecordsAnalyzerLibrary.AssemblyInfo.cs
+C:\Users\Martynas\source\repos\RecordsAnalyzer\RecordsAnalyzerLibrary\obj\Debug\netcoreapp3.1\RecordsAnalyzerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Martynas\source\repos\RecordsAnalyzer\RecordsAnalyzerLibrary\obj\Debug\netcoreapp3.1\RecordsAnalyzerLibrary.dll
+C:\Users\Martynas\source\repos\RecordsAnalyzer\RecordsAnalyzerLibrary\obj\Debug\netcoreapp3.1\RecordsAnalyzerLibrary.pdb

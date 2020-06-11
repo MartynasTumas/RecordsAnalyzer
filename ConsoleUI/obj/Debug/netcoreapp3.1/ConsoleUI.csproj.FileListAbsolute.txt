@@ -1,0 +1,16 @@
+C:\Users\Martynas\source\repos\RecordsAnalyzer\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+C:\Users\Martynas\source\repos\RecordsAnalyzer\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+C:\Users\Martynas\source\repos\RecordsAnalyzer\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+C:\Users\Martynas\source\repos\RecordsAnalyzer\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+C:\Users\Martynas\source\repos\RecordsAnalyzer\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\Martynas\source\repos\RecordsAnalyzer\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\Martynas\source\repos\RecordsAnalyzer\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Martynas\source\repos\RecordsAnalyzer\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Martynas\source\repos\RecordsAnalyzer\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\Martynas\source\repos\RecordsAnalyzer\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Martynas\source\repos\RecordsAnalyzer\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\Martynas\source\repos\RecordsAnalyzer\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\Martynas\source\repos\RecordsAnalyzer\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\Martynas\source\repos\RecordsAnalyzer\ConsoleUI\bin\Debug\netcoreapp3.1\RecordsAnalyzerLibrary.dll
+C:\Users\Martynas\source\repos\RecordsAnalyzer\ConsoleUI\bin\Debug\netcoreapp3.1\RecordsAnalyzerLibrary.pdb
+C:\Users\Martynas\source\repos\RecordsAnalyzer\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
